@@ -25,4 +25,4 @@ Googleに飛ぶリンク
 リンクの先頭にエクスクラメーション・マーク(!)を付ける．  
 
 ![i](http://www.google.com/images/logo.gif)
-[b](http://blog-imgs-42-origin.fc2.com/r/e/a/realgraphica/R0011210.jpg)
+![b](http://blog-imgs-42-origin.fc2.com/r/e/a/realgraphica/R0011210.jpg)
